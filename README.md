@@ -8,7 +8,6 @@
 
 <div align="center">
 
-
 ---
 
 ### 👩‍💻 About Me
@@ -21,32 +20,30 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 ---
 
 ### 🛠 Tech Stack & Tools
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit-learn" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java&theme=dark" />
+
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind,bootstrap&theme=dark" />
+
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express,spring,nestjs,graphql&theme=dark" />
+
+### 🤖 AI/ML & Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikit-learn,pandas,numpy,jupyter&theme=dark" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite&theme=dark" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github,git,heroku&theme=dark" />
+
+### 🔧 Tools & Hardware
+<img src="https://skillicons.dev/icons?i=vscode,postman,arduino,raspberrypi,linux&theme=dark" />
+
 </div>
 
 ---
@@ -97,5 +94,13 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+### 🎮 When I'm Not Coding...
+<div align="center">
+**🎯 Gaming • 📚 Learning • 🌍 Exploring Tech • 💡 Building Ideas**
+</div>
+
 
 
