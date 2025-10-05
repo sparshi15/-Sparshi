@@ -45,8 +45,7 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 **⚙️ Deployment & MLOps**  
 <img src="https://skillicons.dev/icons?i=docker,mlflow,fastapi&theme=dark" alt="Docker, MLflow, FastAPI" />
 
-</div>
-**🗄️ Databases**  
+**🗄️ Databases***  
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite&theme=dark" />
 
 **☁️ Cloud & DevOps**  
