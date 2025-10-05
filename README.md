@@ -7,8 +7,7 @@
 <h3 align="center">3rd Year Undergrad | Web Development & Data Science Enthusiast | AI & ML Explorer</h3>
 
 <div align="center">
-  <img height="180" src="https://i.pinimg.com/736x/c4/4f/29/c44f295b487282f826077da1d3c3c744.jpg" />
-</div>
+
 
 ---
 
