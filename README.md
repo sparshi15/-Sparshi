@@ -1,6 +1,6 @@
 <!-- Hero / Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sparshi15/-Sparshi/a94e7081b8e5d354b315533a12c9d2c79bbc20c1/your-image.png" height="200" alt="Coding Banner"/>
+  <img src="Gemini_Generated_Image_rqo60srqo60srqo6.png" height="200" alt="Coding Banner"/>
 </p>
 
 <h1 align="center">Hey there, 👋 I'm Sparshi Jain!</h1>
