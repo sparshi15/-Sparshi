@@ -24,27 +24,30 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,rust,go&theme=dark" />
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vue,angular,sass&theme=dark" />
 
 ### ⚙️ Backend & APIs
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express,spring,nestjs,graphql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,nestjs,graphql&theme=dark" />
 
 ### 🤖 AI/ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikit-learn,pandas,numpy,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,scikit-learn,opencv,pandas,numpy,jupyter,matplotlib,seaborn,plotly,xgboost,lightgbm&theme=dark" />
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite&theme=dark" />
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github,git,heroku&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github,git,heroku,terraform,ansible&theme=dark" />
 
 ### 🔧 Tools & Hardware
-<img src="https://skillicons.dev/icons?i=vscode,postman,arduino,raspberrypi,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,arduino,raspberrypi,linux,figma,canva&theme=dark" />
 
 </div>
+
+
+
 
 ---
 
