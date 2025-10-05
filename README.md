@@ -30,8 +30,22 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,nestjs,graphql&theme=dark" />
 
 **🤖 AI/ML & Data Science**  
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,scikit-learn,opencv,pandas,numpy,jupyter,matplotlib,seaborn,plotly,xgboost,lightgbm&theme=dark" />
 
+<div align="center">
+
+**🧰 Core Python & Data Libraries**  
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,jupyter&theme=dark" alt="Python, Pandas, NumPy, Jupyter" />
+
+**🧠 Deep Learning**  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras&theme=dark" alt="TensorFlow, PyTorch, Keras" />
+
+**🖼️ Computer Vision & NLP**  
+<img src="https://skillicons.dev/icons?i=opencv,transformers,spacy&theme=dark" alt="OpenCV, Hugging Face Transformers, SpaCy" />
+
+**⚙️ Deployment & MLOps**  
+<img src="https://skillicons.dev/icons?i=docker,mlflow,fastapi&theme=dark" alt="Docker, MLflow, FastAPI" />
+
+</div>
 **🗄️ Databases**  
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite&theme=dark" />
 
