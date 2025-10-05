@@ -1,12 +1,10 @@
 <!-- Hero / Banner Image -->
 <p align="center">
-  <img src="Gemini_Generated_Image_rqo60srqo60srqo6.png" height="200" alt="Coding Banner"/>
+<img src="Gemini_Generated_Image_rqo60srqo60srqo6.png" height="200" alt="Coding Banner"/>
 </p>
 
 <h1 align="center">Hey there, 👋 I'm Sparshi Jain!</h1>
 <h3 align="center">3rd Year Undergrad | Web Development & Data Science Enthusiast | AI & ML Explorer</h3>
-
-<div align="center">
 
 ---
 
@@ -20,34 +18,30 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 ---
 
 ### 🛠 Tech Stack & Tools
-
 <div align="center">
 
-### 💻 Languages
+**💻 Languages**  
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,rust,go&theme=dark" />
 
-### 🌐 Frontend
+**🌐 Frontend**  
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vue,angular,sass&theme=dark" />
 
-### ⚙️ Backend & APIs
+**⚙️ Backend & APIs**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,nestjs,graphql&theme=dark" />
 
-### 🤖 AI/ML & Data Science
+**🤖 AI/ML & Data Science**  
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,scikit-learn,opencv,pandas,numpy,jupyter,matplotlib,seaborn,plotly,xgboost,lightgbm&theme=dark" />
 
-### 🗄️ Databases
+**🗄️ Databases**  
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite&theme=dark" />
 
-### ☁️ Cloud & DevOps
+**☁️ Cloud & DevOps**  
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github,git,heroku,terraform,ansible&theme=dark" />
 
-### 🔧 Tools & Hardware
+**🔧 Tools & Hardware**  
 <img src="https://skillicons.dev/icons?i=vscode,postman,arduino,raspberrypi,linux,figma,canva&theme=dark" />
 
 </div>
-
-
-
 
 ---
 
@@ -67,9 +61,13 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 <div align="center">
 
 **💬 [Chatbox](https://github.com/sparshi15/chatbox)** – AI chatbot using Python & NLP 🤖  
+<br>
 **🤖 [ANN Deep Learning](https://github.com/sparshi15/DEEP-LEARNING-PROJECT-USING-ANN)** – Artificial Neural Network project 🧠  
+<br>
 **📊 [ML Lifecycle](https://github.com/sparshi15/step-by-step-project-implementation-with-life-cycle-of-ML-project)** – End-to-end ML project workflow 🚀  
+<br>
 **🌐 [Portfolio](https://github.com/sparshi15/portfolio)** – Personal portfolio website 💻  
+<br>
 **📈 [Trader Behavior Analysis](https://github.com/sparshi15/ds_sparshi_jain)** – Market sentiment vs trader behavior 📊  
 
 </div>
@@ -92,7 +90,9 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 ---
 
 ### 📊 GitHub Activity
+<div align="center">
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sparshi15&theme=dracula)
+</div>
 
 ---
 
@@ -104,6 +104,7 @@ Hi! I'm Sparshi, a curious coder with a love for AI, ML, and design.
 <div align="center">
 **🎯 Gaming • 📚 Learning • 🌍 Exploring Tech • 💡 Building Ideas**
 </div>
+
 
 
 
